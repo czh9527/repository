@@ -1,0 +1,18 @@
+<Updates>
+ <ApplicationName>{AnyApplication}</ApplicationName>
+ <ApplicationVersion>1.0.0</ApplicationVersion>
+ <Checksum>true</Checksum>
+ <PackageUpdate>
+  <Name>com.czh.ifw</Name>
+  <DisplayName>MyApp</DisplayName>
+  <Description>The first ifw installer.</Description>
+  <Version>2.0.0-1</Version>
+  <ReleaseDate>2020-10-12</ReleaseDate>
+  <Default>true</Default>
+  <Script>installscript.qs</Script>
+  <UpdateFile OS="Any" UncompressedSize="117242193" CompressedSize="30837182"/>
+  <DownloadableArchives>bin.7z,script.7z</DownloadableArchives>
+  <UserInterfaces>targetwidget.ui</UserInterfaces>
+  <SHA1>7a20c97c1b09a851776d8a8c7e9fb11e969da19e</SHA1>
+ </PackageUpdate>
+</Updates>
